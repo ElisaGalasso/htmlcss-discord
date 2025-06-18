@@ -123,6 +123,12 @@ div a {
     margin: 20px;
 }
 
+#scarica,
+#browser {
+    display: inline-block;
+    margin-top: 20px;
+}
+
 
 /*#endregion-banner*/
 
@@ -174,7 +180,24 @@ div a {
     text-align: center;
 }
 
+div img {
+    margin-top: 40px;
+}
+
+h4 {
+    margin-bottom: 20px;
+}
+
+#download {
+    border-radius: 999px;
+    background-color: #7289da;
+    color: white;
+    
+}
+
 /*#endregion-chillin*/
+
+
 
 
 
