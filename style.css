@@ -47,17 +47,17 @@ section {
 
 section {
     min-height: 400px;
-    background-color: rgb(131, 81, 177);
+    /*background-color: rgb(131, 81, 177);*/
 }
 
 .w-60 {
     width: 60%;
-    background-color: red;
+    /*background-color: red;*/
 }
 
 .w-40 {
     width: 40%;
-    background-color: pink;
+    /*background-color: pink;*/
 }
 
 
@@ -97,6 +97,7 @@ div a {
     padding: 50px 80px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 60px;
 }
 
 .banner .conteiner {    
@@ -162,12 +163,18 @@ div a {
 
 #community {
     margin-top: 150px;
+    background-color: white;
 }
 
 /*#endregion-community*/
 
+/*#region-chillin*/
 
+.chillin {
+    text-align: center;
+}
 
+/*#endregion-chillin*/
 
 
 
